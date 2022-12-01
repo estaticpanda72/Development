@@ -1,7 +1,7 @@
 # Development
 
 ### Link to Deployed Website
-If you used the stencil code, this is `https://<your GitHub username>.github.io/<name of your repository>`
+https://estaticpanda72.github.io/Development/
 
 ### Goal and Value of the Application
 The goal of the application is to develop a tool that freshman students can use to view and get more information on the various
